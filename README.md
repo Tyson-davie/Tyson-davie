@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tyson-davie
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning science
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me dms me
+- 💞️ I’m looking to collaborate on computer science internship
+- 📫 How to reach me dms me:
 - 😄 Pronouns: He
 - ⚡ Fun fact: i like bun cha
 
